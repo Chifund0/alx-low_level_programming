@@ -5,9 +5,9 @@
 4.	 Printing the alphabet in lowercase, except q and e.
 5. 	 Printing all single digit numbers of base 10 starting from 0.
 6. 	 Printing all single digit numbers of base 10 starting from 0, not allowed to use any variable of type char.
-7.  	 Printing the lowercase alphabet backwards.
+7.   Printing the lowercase alphabet backwards.
 8. 	 Printing all the numbers of base 16 in lowercase.
 9. 	 Printing all possible combinations of single-digit numbers.
-10. 	 Printing all possible different combinations of 2 digits.
+10.  Printing all possible different combinations of 2 digits.
 11.	 Printing all possible different combinations of three digits.
 12.	 Printing all possible combinations of two two-digit numbers.
