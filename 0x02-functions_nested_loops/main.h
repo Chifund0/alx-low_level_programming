@@ -16,4 +16,7 @@ int _islower(int c);
 /* Task 4 */
 int _isalpha(int c);
 
+/* Task 5 */
+int print_sign(int n);
+
 #endif 
