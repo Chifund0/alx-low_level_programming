@@ -13,4 +13,7 @@ void print_alphabet_x10(void);
 /* Task 3 */
 int _islower(int c);
 
+/* Task 4 */
+int _isalpha(int c);
+
 #endif 
