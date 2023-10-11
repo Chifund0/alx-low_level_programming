@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /**
- * islower - checks for alphabet characters in lowercase
+ * _islower - checks for alphabet characters in lowercase
+ * @c : character to check
  *
  * Return: 1 if c & 0 if C
  */
