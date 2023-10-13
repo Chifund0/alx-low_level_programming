@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * _isupper - checks for alphabet characters in lowercase
+ * _isupper - checks for alphabet characters in uppercase
  * @c : character to check
  *
- * Return: 1 if C & 0 if c/otherwise
+ * Return: 1 if C & 0 otherwise
  */
 
 int _isupper(int c)
