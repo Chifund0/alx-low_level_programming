@@ -3,9 +3,10 @@
 
 /**
  * mul - multiplies 2 ints
- * @c : result character
+ * @a: number to multiply with
+ * @b: number to multiply with
  *
- * Return: 0 
+ * Return: a * b
  */
 
 int mul(int a, int b)
