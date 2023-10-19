@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * main - derefencing pointers, example with int and char types
- *
- * Return: Always 0
+ * reset_to_98 - derefencing an int pointer
+ * @n: pointer
+ * 
  */
 
 void reset_to_98(int *n)
