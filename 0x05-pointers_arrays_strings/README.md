@@ -2,7 +2,7 @@
 
 A pointer is a variable which contains a memory address.
 
-## HEADER FILE : file:
+## HEADER FILE : file_folder:
 The header file containsall the prototypes for the tasks.
 
 ## TASKS :page_with_curl:
